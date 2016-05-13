@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="action_editSeleceted">Edit</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clearList">Clear List</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">YourName</string>
+</resources>
